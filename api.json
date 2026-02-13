@@ -1,10 +1,8 @@
 {
-  "category": "CONSPIRACY_THEORY",
-
   "meta": {
     "version": "1.0.0",
     "schema_version": "1.0.0",
-    "last_updated": "2026-01-14",
+    "last_updated": "2026-02-13",
     "repository": "https://github.com/wyrdness/hollow-earth",
     "maintainers": [
       {
@@ -18,325 +16,111 @@
       "content": "CC-BY-4.0"
     }
   },
-
   "phenomenon": {
     "id": "hollow-earth",
     "name": "Hollow Earth",
-    "aliases": [
-      {
-        "name": "Inner Earth",
-        "meaning": "Earth's alleged hollow interior"
-      },
-      {
-        "name": "Subterranean World",
-        "meaning": "Underground civilization theory"
-      },
-      {
-        "name": "Agartha",
-        "meaning": "Legendary underground kingdom"
-      },
-      {
-        "name": "Shambhala",
-        "meaning": "Mythical kingdom, sometimes placed underground"
-      }
-    ],
+    "aliases": [],
     "category": "CONSPIRACY_THEORY",
-    "subcategory": "Pseudoscience / Urban Legend",
+    "subcategory": "| Thickness/Size |",
     "tags": [
-      "hollow-earth",
-      "underground-civilizations",
-      "polar-openings",
-      "debunked",
-      "pseudoscience",
-      "lost-civilizations"
+      "folklore",
+      "mythology"
     ],
-    "status": "debunked",
+    "status": "documented",
     "description": {
-      "summary": "Theory that Earth is hollow with openings at the poles and contains internal civilizations. Historical scientific speculation (17th-19th century) has been definitively disproven by seismology, which reveals Earth's internal structure: crust, mantle, outer core, and inner core.",
-      "full": "The Hollow Earth theory proposes that Earth is hollow with openings at the North and South poles, potentially containing an inner sun and advanced civilizations such as the legendary Agartha or Shambhala. The concept appeared in 17th-19th century scientific speculation by figures like Edmond Halley, Leonhard Euler, and John Cleves Symmes Jr., who proposed polar expeditions to prove the theory. The idea was popularized by fiction (Jules Verne's 'Journey to the Center of the Earth') and later incorporated into conspiracy theories, including unverified claims of Nazi interest and misquotations of Admiral Byrd's Antarctic expeditions. Modern seismology has definitively disproven a hollow interior, revealing Earth's layered structure (crust, mantle, outer core, inner core). Earth's measured mass and density require a dense interior. The theory is scientifically impossible and has been thoroughly debunked."
+      "summary": "The Hollow Earth theory proposes that Earth is hollow with openings at the North and South poles, potentially containing an inner sun and advanced civilizations such as Agartha or Shambhala.",
+      "full": "The Hollow Earth theory proposes that Earth is hollow with openings at the North and South poles, potentially containing an inner sun and advanced civilizations such as Agartha or Shambhala."
     },
     "etymology": {
-      "origin": "Descriptive term for theory that Earth's interior is hollow rather than solid",
-      "meaning": "Earth with hollow interior",
-      "historical_use": "17th-19th century scientific speculation, later pseudoscience"
+      "origin": "Unknown",
+      "meaning": "To be documented",
+      "first_use": "Unknown"
     }
   },
-
   "classification": {
     "taxonomy": {
       "category": "CONSPIRACY_THEORY",
-      "type": "Pseudoscience",
-      "subtype": "Geological",
-      "variant": "Urban Legend / Lost Civilization"
+      "type": "| Thickness/Size |",
+      "subtype": "Unknown",
+      "variant": "Unknown"
     },
-    "related_phenomena": [
-      {
-        "id": "agartha",
-        "name": "Agartha",
-        "relationship": "connected",
-        "description": "Legendary underground kingdom"
-      },
-      {
-        "id": "shambhala",
-        "name": "Shambhala",
-        "relationship": "related",
-        "description": "Mythical kingdom, sometimes placed underground"
-      },
-      {
-        "id": "admiral-byrd",
-        "name": "Admiral Byrd Conspiracy",
-        "relationship": "misquoted",
-        "description": "Antarctic expeditions misquoted to support hollow Earth"
-      }
-    ]
+    "related_phenomena": []
   },
-
-  "core_claims": {
-    "main_assertions": [
-      {
-        "claim": "Earth is hollow inside",
-        "description": "Earth's interior is hollow space rather than solid/molten rock",
-        "evidence_claimed": "None credible",
-        "reality": "Seismology proves layered structure: crust, mantle, cores"
-      },
-      {
-        "claim": "Openings at poles",
-        "description": "Large holes at North and South poles leading to interior",
-        "evidence_claimed": "Alleged satellite image anomalies, flight path avoidance",
-        "reality": "Poles extensively explored; no openings; satellite images complete"
-      },
-      {
-        "claim": "Inner sun",
-        "description": "Small sun or light source illuminating hollow interior",
-        "evidence_claimed": "Speculation to explain how interior could be habitable",
-        "reality": "No physical mechanism; Earth's heat comes from radioactive decay and residual formation heat"
-      },
-      {
-        "claim": "Advanced civilizations inside",
-        "description": "Agartha, Shambhala, or other advanced beings live in hollow Earth",
-        "evidence_claimed": "Legends, myths, alleged explorer accounts",
-        "reality": "No evidence; myths are folklore, not literal geography"
-      }
-    ],
-    "alleged_locations": [
-      {
-        "name": "Agartha",
-        "description": "Legendary underground kingdom, center of hollow Earth civilization",
-        "origin": "19th century occult literature",
-        "reality": "Fictional/legendary; no archaeological or geological evidence"
-      },
-      {
-        "name": "Shambhala",
-        "description": "Mythical kingdom from Tibetan Buddhism, sometimes placed underground",
-        "origin": "Buddhist mythology",
-        "reality": "Spiritual/mythological concept, not literal underground location"
-      },
-      {
-        "name": "Polar openings",
-        "description": "Alleged entrances to hollow Earth at North and South poles",
-        "origin": "Symmes' Hole theory (1818)",
-        "reality": "Poles extensively explored and mapped; no openings exist"
-      }
-    ]
-  },
-
-  "historical_development": {
-    "early_speculation": [
-      {
-        "period": "1692",
-        "person": "Edmond Halley",
-        "contribution": "Proposed hollow Earth with nested spheres to explain magnetic field variations",
-        "context": "Serious scientific speculation before understanding of magnetism",
-        "status": "Later disproven; Halley's other work (comet) remains valid"
-      },
-      {
-        "period": "1741",
-        "person": "Leonhard Euler",
-        "contribution": "Suggested hollow Earth with single interior sun",
-        "context": "Mathematical speculation, not based on evidence",
-        "status": "Disproven by later science"
-      },
-      {
-        "period": "1818",
-        "person": "John Cleves Symmes Jr.",
-        "contribution": "Proposed 'Symmes' Hole' - polar openings to hollow interior; sought expedition funding",
-        "context": "Persistent advocate; influenced later hollow Earth ideas",
-        "status": "Never proven; expeditions never materialized"
-      }
-    ],
-    "symmes_hole": {
-      "proponent": "John Cleves Symmes Jr. (American army officer)",
-      "year": "1818",
-      "proposal": "Earth is hollow with large openings at poles, accessible via ship",
-      "advocacy": "Symmes lectured extensively and petitioned Congress for polar expedition",
-      "reception": "Generated public interest but scientific rejection",
-      "legacy": "Influenced 19th century hollow Earth fiction and later conspiracy theories",
-      "outcome": "Expedition never occurred; theory disproven by polar exploration"
+  "characteristics": {
+    "physical": {
+      "features": [],
+      "morphology": "See README.md for detailed physical description"
     },
-    "fiction_influence": [
-      {
-        "work": "Journey to the Center of the Earth",
-        "author": "Jules Verne",
-        "year": "1864",
-        "impact": "Popularized underground world concept in fiction",
-        "note": "Fiction, not claiming to be factual"
-      },
-      {
-        "work": "The Smoky God",
-        "author": "Willis George Emerson",
-        "year": "1908",
-        "impact": "Novel claiming to be true account of hollow Earth journey",
-        "note": "Fiction presented as fact; influenced later believers"
-      },
-      {
-        "genre": "Pulp fiction",
-        "period": "Early 20th century",
-        "impact": "Numerous hollow Earth adventure stories",
-        "note": "Blurred lines between fiction and belief"
-      }
-    ]
-  },
-
-  "nazi_connection": {
-    "claims": "Nazis allegedly sought hollow Earth or entrances to inner world for Aryan origins",
-    "alleged_evidence": [
-      "Nazi interest in occult and mythology",
-      "Antarctic expeditions (historical reality: territorial claims, whaling)",
-      "Agartha as Aryan homeland theory"
-    ],
-    "reality": "Largely unverified and likely exaggerated/fabricated post-war",
-    "historical_facts": "Nazis did conduct Antarctic expedition (1938-39) for territorial claims and whaling surveys, not hollow Earth exploration",
-    "conspiracy_growth": "Post-war mythology mixing real Nazi occultism interest with hollow Earth theory",
-    "status": "Unsubstantiated claims; no credible evidence of Nazi hollow Earth expeditions"
-  },
-
-  "admiral_byrd": {
-    "person": "Richard E. Byrd (American naval officer, aviator, polar explorer)",
-    "expeditions": [
-      {
-        "expedition": "Antarctic expeditions",
-        "years": "1928-1930, 1933-1935, 1939-1941, 1946-1947 (Operation Highjump), 1955-1956",
-        "purpose": "Polar exploration, mapping, scientific research",
-        "reality": "Legitimate scientific expeditions"
-      }
-    ],
-    "conspiracy_claims": {
-      "claim": "Byrd discovered entrance to hollow Earth or encountered advanced civilization",
-      "alleged_evidence": "Misquoted diary entries, fabricated accounts",
-      "specific_misquote": "Claimed to have said he discovered 'land beyond the pole' with forests and animals",
-      "reality": "No such statements in verified records; quotes are fabrications or misinterpretations",
-      "Operation_Highjump": "Large-scale 1946-47 Antarctic expedition; conspiracy theorists claim it was military operation against underground Nazis or hollow Earth beings; actually was mapping and research expedition"
-    },
-    "status": "Byrd's actual expeditions well-documented; hollow Earth connections are fabrications and misquotations"
-  },
-
-  "scientific_debunking": {
-    "seismology": {
-      "description": "Study of seismic waves from earthquakes reveals Earth's internal structure",
-      "method": "Seismic waves travel at different speeds through different materials; by measuring arrival times worldwide, scientists map interior",
-      "findings": {
-        "crust": "Thin outer layer, 5-70 km thick",
-        "mantle": "Thick layer of solid rock, ~2,900 km thick",
-        "outer_core": "Liquid iron-nickel, ~2,300 km thick",
-        "inner_core": "Solid iron-nickel, ~1,200 km radius"
-      },
-      "proof": "Seismic wave patterns definitively show solid/liquid layers, not hollow interior",
-      "conclusion": "Earth is NOT hollow; internal structure is well-mapped and understood"
-    },
-    "density_gravity": {
-      "earth_mass": "5.972 × 10^24 kg (measured via gravitational effects)",
-      "earth_volume": "1.08321 × 10^12 km³ (measured)",
-      "average_density": "5.52 g/cm³ (calculated from mass and volume)",
-      "surface_materials": "Rock density ~2.7-3.3 g/cm³",
-      "implication": "Earth's average density much higher than surface rocks, proving dense interior (iron-nickel core)",
-      "hollow_earth_problem": "Hollow Earth would have much lower average density, contradicting measured mass",
-      "conclusion": "Earth's mass requires dense interior, not hollow space"
-    },
-    "magnetism": {
-      "earth_magnetic_field": "Generated by liquid iron outer core (dynamo effect)",
-      "hollow_earth_problem": "Hollow Earth has no mechanism to generate magnetic field",
-      "observation": "Earth has strong, well-measured magnetic field",
-      "conclusion": "Magnetic field proves liquid iron core, not hollow interior"
-    },
-    "polar_exploration": {
-      "north_pole": "Extensively explored by surface, air, submarine; Arctic Ocean confirmed",
-      "south_pole": "Extensively explored; Antarctic continent mapped; research stations present",
-      "satellite_imaging": "Complete satellite coverage shows no polar openings",
-      "aviation": "Commercial and military flights regularly cross polar regions",
-      "conclusion": "No openings exist at either pole; both poles thoroughly explored and mapped"
+    "abilities": [],
+    "behavior": {
+      "activity_period": "unknown",
+      "disposition": "unknown",
+      "habitat_preference": []
     }
   },
-
-  "psychology": {
-    "appeal_factors": [
-      {
-        "factor": "Lost civilization romanticism",
-        "description": "Desire to believe in hidden advanced civilizations",
-        "relevance": "Agartha/Shambhala legends provide mystery and wonder"
-      },
-      {
-        "factor": "Unexplored frontiers",
-        "description": "Desire for remaining mysteries in mapped world",
-        "relevance": "Hollow Earth provides 'final frontier' despite Earth being mapped"
-      },
-      {
-        "factor": "Distrust of science/authority",
-        "description": "Rejection of scientific consensus",
-        "relevance": "Belief that science hides truth about Earth's interior"
-      },
-      {
-        "factor": "Spiritual/mythological connection",
-        "description": "Connection to Buddhist/Hindu mythology (Shambhala, Agartha)",
-        "relevance": "Interpreting spiritual myths as literal geography"
+  "distribution": {
+    "range": {
+      "description": "Unknown",
+      "continents": [],
+      "countries": [],
+      "regions": []
+    },
+    "hotspots": [],
+    "temporal": {
+      "first_recorded": {
+        "date": "Unknown",
+        "circa": true,
+        "source": "Traditional folklore"
       }
-    ]
-  },
-
-  "cultural_impact": {
-    "fiction": [
-      "Jules Verne - Journey to the Center of the Earth (1864)",
-      "Edgar Rice Burroughs - Pellucidar series (1914-1963)",
-      "Numerous pulp fiction and adventure novels",
-      "Video games and movies featuring hollow Earth"
-    ],
-    "mythology": [
-      "Agartha in occult literature",
-      "Shambhala in Tibetan Buddhism",
-      "Various underworld myths worldwide"
-    ],
-    "conspiracy_theories": [
-      "Nazi hollow Earth expeditions",
-      "Admiral Byrd discoveries",
-      "Government cover-up of polar openings",
-      "UFOs originating from hollow Earth"
-    ]
-  },
-
-  "sources": [
-    {
-      "id": "kafton-minkel-1989",
-      "type": "book",
-      "title": "Subterranean Worlds: 100,000 Years of Dragons, Dwarfs, the Dead, Lost Races & UFOs from Inside the Earth",
-      "authors": ["Walter Kafton-Minkel"],
-      "publication": "Loompanics Unlimited",
-      "date": "1989",
-      "isbn": "978-0915179626"
-    },
-    {
-      "id": "standish-2006",
-      "type": "book",
-      "title": "Hollow Earth: The Long and Curious History of Imagining Strange Lands, Fantastical Creatures, Advanced Civilizations, and Marvelous Machines Below the Earth's Surface",
-      "authors": ["David Standish"],
-      "publication": "Da Capo Press",
-      "date": "2006",
-      "isbn": "978-0306814730"
-    },
-    {
-      "id": "seismology",
-      "type": "scientific",
-      "title": "Seismological Evidence of Earth's Internal Structure",
-      "organization": "USGS, Various Universities",
-      "description": "Peer-reviewed seismological research mapping Earth's interior"
     }
-  ]
+  },
+  "history": {
+    "origins": {
+      "cultural_roots": "Unknown",
+      "earliest_accounts": "See README.md for historical details",
+      "folklore_connections": "Unknown"
+    },
+    "timeline": []
+  },
+  "sightings": {
+    "statistics": {
+      "total_documented": 0,
+      "verified": 0,
+      "disputed": 0,
+      "debunked": 0
+    },
+    "notable": [],
+    "database_path": "./sightings/"
+  },
+  "evidence": {
+    "physical": [],
+    "photographic": [],
+    "video": [],
+    "audio": [],
+    "trace": []
+  },
+  "theories": {
+    "paranormal": [],
+    "scientific": [],
+    "skeptical": []
+  },
+  "cultural": {
+    "folklore": {
+      "traditions": [],
+      "stories": [],
+      "beliefs": "See README.md for cultural context"
+    },
+    "popular_culture": {
+      "literature": [],
+      "film_tv": [],
+      "games": [],
+      "other": []
+    }
+  },
+  "research": {
+    "researchers": [],
+    "organizations": [],
+    "ongoing_studies": "None documented"
+  },
+  "sources": []
 }
