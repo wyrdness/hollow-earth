@@ -1,8 +1,8 @@
 {
   "meta": {
-    "version": "1.0.0",
+    "version": "1.1.0",
     "schema_version": "1.0.0",
-    "last_updated": "2026-02-13",
+    "last_updated": "2026-05-07",
     "repository": "https://github.com/wyrdness/hollow-earth",
     "maintainers": [
       {
@@ -16,72 +16,128 @@
       "content": "CC-BY-4.0"
     }
   },
+
   "phenomenon": {
     "id": "hollow-earth",
     "name": "Hollow Earth",
-    "aliases": [],
-    "category": "CONSPIRACY_THEORY",
-    "subcategory": "| Thickness/Size |",
-    "tags": [
-      "folklore",
-      "mythology"
+    "aliases": [
+      { "name": "Inner Earth", "region": "Modern English usage" },
+      { "name": "Subterranean world", "region": "General fictional / mythic usage" },
+      { "name": "Concave Earth / Cellular Cosmogony", "region": "Cyrus Teed's Koreshan tradition" },
+      { "name": "Agartha", "language": "Sanskrit-derived", "meaning": "Legendary subterranean kingdom" },
+      { "name": "Shambhala", "language": "Sanskrit", "meaning": "Buddhist mythical kingdom often associated in modern Western occultism with an inner Earth" }
     ],
-    "status": "documented",
+    "category": "CONSPIRACY_THEORY",
+    "subcategory": "Pseudoscience / esoteric cosmology",
+    "tags": [
+      "pseudoscience",
+      "conspiracy-theory",
+      "esotericism",
+      "polar-openings",
+      "agartha",
+      "shambhala",
+      "symmes",
+      "byrd"
+    ],
+    "status": "debunked",
     "description": {
-      "summary": "The Hollow Earth theory proposes that Earth is hollow with openings at the North and South poles, potentially containing an inner sun and advanced civilizations such as Agartha or Shambhala.",
-      "full": "The Hollow Earth theory proposes that Earth is hollow with openings at the North and South poles, potentially containing an inner sun and advanced civilizations such as Agartha or Shambhala."
+      "summary": "The proposition that the Earth is partly or entirely hollow, with one or more habitable inner surfaces and openings (often at the poles) — historically a serious scientific hypothesis, now firmly debunked but persistent as a conspiracy and esoteric tradition.",
+      "full": "The Hollow Earth is the proposition that the planet is wholly or partly hollow, often with habitable inner surfaces, an inner sun, and entrances at one or both poles. The idea began as serious natural philosophy in the late 17th century: Edmond Halley argued in 1692 that the Earth might consist of a hollow shell about 800 km thick enclosing two inner concentric shells and an innermost core, primarily as a way to explain anomalies in the Earth's magnetic field. In the 19th century, the American officer John Cleves Symmes Jr. proposed (1818) a hollow Earth with very large polar openings, lobbied Congress for a polar expedition, and inspired the writer J. N. Reynolds. Cyrus Reed Teed proposed a 'concave Earth' or 'Cellular Cosmogony' in 1869, founding the Koreshan Unity religious movement; Marshall Gardner published A Journey to the Earth's Interior in 1913 and patented a working hollow-Earth model. The hypothesis was definitively disproved by gravitational measurements (Bouguer's 1738 Chimborazo work, Hutton's 1774 Schiehallion experiment, Cavendish's 1798 torsion-balance experiment establishing Earth's mean density at 5.515 g/cm³) and by 20th-century seismology, which directly imaged a solid mantle, liquid outer core, and solid inner core. Despite this, hollow-Earth ideas survive as esoteric and conspiracy traditions, often combined with myths of subterranean civilisations such as Agartha or Shambhala and modern legends about Admiral Richard E. Byrd's polar expeditions. Jules Verne's 1864 novel Journey to the Center of the Earth remains the canonical fictional treatment."
     },
     "etymology": {
-      "origin": "Unknown",
-      "meaning": "To be documented",
-      "first_use": "Unknown"
+      "origin": "English compound. The phrase 'hollow earth' came into use in early-modern natural philosophy and scientific cosmology in the 17th–18th centuries.",
+      "meaning": "Earth, conceived as a hollow rather than solid body.",
+      "first_use": "Halley's 1692 paper to the Royal Society on the Earth's magnetic field is generally treated as the founding statement of the modern hollow-Earth hypothesis."
     }
   },
+
   "classification": {
     "taxonomy": {
       "category": "CONSPIRACY_THEORY",
-      "type": "| Thickness/Size |",
-      "subtype": "Unknown",
-      "variant": "Unknown"
+      "type": "Pseudoscientific cosmology",
+      "subtype": "Hollow / concave Earth",
+      "variant": "Multiple historical and modern variants"
     },
-    "related_phenomena": []
+    "related_phenomena": [
+      { "id": "agartha", "name": "Agartha", "relationship": "subset", "description": "Legendary subterranean kingdom often situated within a hollow Earth" },
+      { "id": "shambhala", "name": "Shambhala", "relationship": "related", "description": "Buddhist mythic kingdom adopted into Western hollow-Earth and Theosophical traditions" },
+      { "id": "flat-earth", "name": "Flat Earth", "relationship": "similar", "description": "Modern pseudoscientific cosmology rejecting standard geophysics" },
+      { "id": "admiral-byrd-secret-diary", "name": "Admiral Byrd 'secret diary' legend", "relationship": "related", "description": "Modern legend that Byrd's 1947 Antarctic expedition encountered a hollow-Earth opening" },
+      { "id": "nazi-ufos", "name": "Nazi UFO myth", "relationship": "related", "description": "Conspiracy tradition that connects hollow-Earth ideas to alleged Nazi polar bases" }
+    ]
   },
+
   "characteristics": {
     "physical": {
-      "features": [],
-      "morphology": "See README.md for detailed physical description"
+      "features": [
+        { "feature": "Hollow planetary interior", "description": "An interior cavity inside the Earth, in some versions occupying most of the planet's volume", "frequency": "always" },
+        { "feature": "Polar openings", "description": "Large 'Symmes Holes' at one or both poles, claimed in 19th-century formulations to be roughly 2,300 km across", "frequency": "common" },
+        { "feature": "Inner sun", "description": "A small interior sun, claimed to illuminate the inner surface in many post-Gardner formulations", "frequency": "common" },
+        { "feature": "Habitable inner surface", "description": "A populated inner surface inhabited by humans, prehistoric animals, or civilisations such as Agartha", "frequency": "common" },
+        { "feature": "Concentric inner shells (Halley)", "description": "In Halley's 1692 model, two further concentric shells and a small inner core lie inside the outer shell", "frequency": "occasional" }
+      ],
+      "morphology": "There is no single canonical morphology: serious scientific proposals (Halley, Symmes) imagined nested shells and large polar holes; Teed's Koreshanity proposed an inverted, concave Earth in which we live on the inside surface of a shell; modern conspiracy versions add inner suns, hidden civilisations, and secret entrances."
     },
     "abilities": [],
     "behavior": {
-      "activity_period": "unknown",
-      "disposition": "unknown",
-      "habitat_preference": []
+      "activity_period": "variable",
+      "disposition": "neutral",
+      "social_structure": "unknown",
+      "habitat_preference": [],
+      "diet": "Not applicable.",
+      "patterns": [
+        "Recurring 19th-century enthusiasm linked to polar exploration",
+        "20th-century revival linked to Theosophy, esoteric Nazism, and post-war UFO culture",
+        "21st-century survival as an internet-era conspiracy theory"
+      ]
     }
   },
+
   "distribution": {
     "range": {
-      "description": "Unknown",
-      "continents": [],
-      "countries": [],
-      "regions": []
+      "description": "A theoretical claim about the entire Earth; major proponents and movements have been concentrated in the United Kingdom (Halley), the United States (Symmes, Teed, Gardner, modern conspiracists), and Russia / continental Europe (Ossendowski, Theosophy).",
+      "continents": ["Worldwide"],
+      "countries": ["United Kingdom", "United States", "Russia", "Various"],
+      "regions": ["Global"]
     },
     "hotspots": [],
     "temporal": {
       "first_recorded": {
-        "date": "Unknown",
-        "circa": true,
-        "source": "Traditional folklore"
-      }
+        "date": "1692",
+        "circa": false,
+        "source": "Edmond Halley's paper to the Royal Society proposing a hollow Earth to explain magnetic-field anomalies"
+      },
+      "peak_activity_periods": [
+        { "period": "1692", "description": "Halley's hollow-Earth paper to the Royal Society" },
+        { "period": "1818–1830s", "description": "Symmes's hollow-Earth campaign and Reynolds's lectures in the United States" },
+        { "period": "1869–1908", "description": "Cyrus Reed Teed's Koreshanity and concave-Earth movement" },
+        { "period": "1913–1920s", "description": "Marshall Gardner's hollow-Earth book and patent; Ossendowski's Beasts, Men and Gods (1922) introduces Agartha to a Western audience" },
+        { "period": "1950s–1960s", "description": "Post-war UFO and Admiral Byrd legends embed hollow-Earth ideas in popular conspiracy culture" }
+      ],
+      "seasonal_patterns": "Not applicable."
     }
   },
+
   "history": {
     "origins": {
-      "cultural_roots": "Unknown",
-      "earliest_accounts": "See README.md for historical details",
-      "folklore_connections": "Unknown"
+      "cultural_roots": "Ancient and medieval cosmologies depicting underworlds (Greek Hades, Norse Niflheim, Hindu and Buddhist subterranean realms) provided imaginative groundwork. The early-modern hollow-Earth hypothesis emerged from genuine 17th- and 18th-century natural philosophy, particularly attempts to explain anomalies in the Earth's magnetic field.",
+      "earliest_accounts": "Halley's 1692 paper proposing a hollow Earth to explain the apparent multiplicity of magnetic poles.",
+      "folklore_connections": "Linked to the wider folklore of underworlds, fairy mounds, and lost civilisations (Atlantis, Lemuria, Agartha, Shambhala)."
     },
-    "timeline": []
+    "timeline": [
+      { "date": "1692-01-01", "event": "Edmond Halley proposes that the Earth consists of a hollow outer shell about 800 km thick, two inner concentric shells, and an innermost core, to explain magnetic-field anomalies", "significance": "Foundational scientific articulation of the hollow-Earth hypothesis", "source": "Halley, E. (1692), Philosophical Transactions of the Royal Society" },
+      { "date": "1738-01-01", "event": "Pierre Bouguer's Chimborazo expedition measures gravitational deflection by a mountain mass", "significance": "First direct gravimetric data inconsistent with a low-density hollow Earth", "source": "Bouguer, P. (1749), La figure de la terre" },
+      { "date": "1774-01-01", "event": "Charles Hutton's Schiehallion experiment measures Earth's mean density", "significance": "Confirms a mean density (~4.5 g/cm³) inconsistent with a hollow planet", "source": "Hutton, C. (1778), Philosophical Transactions" },
+      { "date": "1798-01-01", "event": "Henry Cavendish's torsion-balance experiment establishes Earth's mean density at 5.515 g/cm³", "significance": "Decisively rules out a hollow Earth on physical grounds", "source": "Cavendish, H. (1798), Philosophical Transactions" },
+      { "date": "1818-04-10", "event": "John Cleves Symmes Jr. issues 'Circular No. 1', publicly proposing a hollow Earth with large polar openings", "significance": "Founds the 19th-century American hollow-Earth movement", "source": "Symmes, J. C. Jr. (1818), 'Circular No. 1'" },
+      { "date": "1864-01-01", "event": "Jules Verne publishes Voyage au centre de la Terre (Journey to the Center of the Earth)", "significance": "Most influential fictional treatment of a hollow / inner Earth", "source": "Verne, J. (1864)" },
+      { "date": "1869-01-01", "event": "Cyrus Reed Teed publicises a 'concave Earth' / Cellular Cosmogony, founding the Koreshan Unity movement", "significance": "Religious / esoteric variant of the hollow-Earth hypothesis", "source": "Teed, C. R., later published as Cellular Cosmogony (1898)" },
+      { "date": "1913-01-01", "event": "Marshall Gardner publishes A Journey to the Earth's Interior and patents a working hollow-Earth model", "significance": "Carries the hollow-Earth hypothesis into the early 20th century", "source": "Gardner, M. (1913)" },
+      { "date": "1922-01-01", "event": "Ferdynand Ossendowski publishes Beasts, Men and Gods, popularising the legend of an underground kingdom Agharti / Agartha", "significance": "Introduces Agartha to Western esoteric culture", "source": "Ossendowski, F. (1922)" }
+    ],
+    "modern_era": "Modern seismology (early 20th century onward) directly images Earth's interior structure — crust, mantle, liquid outer core, solid inner core — leaving no room for the large hollow cavities required by classical hollow-Earth models. The hypothesis nonetheless survives as a 20th- and 21st-century conspiracy and esoteric tradition, often combined with myths around Admiral Richard E. Byrd's 1947 Operation Highjump Antarctic expedition, alleged Nazi polar bases, and UFO contactee literature."
   },
+
   "sightings": {
     "statistics": {
       "total_documented": 0,
@@ -92,35 +148,132 @@
     "notable": [],
     "database_path": "./sightings/"
   },
+
   "evidence": {
     "physical": [],
     "photographic": [],
     "video": [],
     "audio": [],
-    "trace": []
+    "trace": [],
+    "documentary": [
+      {
+        "id": "hollow-earth-evidence-halley-1692",
+        "type": "scientific paper",
+        "name": "Halley (1692) hollow-Earth hypothesis",
+        "date": "1692",
+        "description": "Edmond Halley's paper to the Royal Society proposing a hollow Earth of nested shells to account for magnetic-field anomalies.",
+        "status": "debunked",
+        "analysis": "Now of historical interest only; superseded by accurate measurements of Earth's density, moment of inertia, and seismic structure.",
+        "source": "Halley, E. (1692), Philosophical Transactions of the Royal Society"
+      },
+      {
+        "id": "hollow-earth-evidence-symmes-1818",
+        "type": "broadside",
+        "name": "Symmes Circular No. 1 (1818)",
+        "date": "1818-04-10",
+        "description": "John Cleves Symmes Jr.'s 1818 broadside proposing a hollow Earth with very large polar openings and lobbying for a polar expedition.",
+        "status": "debunked",
+        "analysis": "Foundational document of the 19th-century American hollow-Earth movement; not supported by subsequent polar exploration or geophysical data.",
+        "source": "Symmes, J. C. Jr. (1818), 'Circular No. 1'"
+      }
+    ]
   },
+
   "theories": {
-    "paranormal": [],
-    "scientific": [],
-    "skeptical": []
+    "paranormal": [
+      {
+        "name": "Esoteric / Theosophical hollow Earth",
+        "description": "An esoteric tradition in which the inner Earth is inhabited by hidden masters and lost civilisations (notably Agartha and Shambhala), accessible through secret tunnels and polar entrances.",
+        "proponents": ["Ferdynand Ossendowski (popularised Agartha in 1922)", "Various Theosophical and modern New Age writers"],
+        "evidence_cited": ["Ossendowski's Beasts, Men and Gods (1922)", "Buddhist and Hindu accounts of subterranean realms (reinterpreted)"]
+      },
+      {
+        "name": "Modern hollow-Earth conspiracies",
+        "description": "20th- and 21st-century conspiracy traditions combining hollow-Earth ideas with claims about Admiral Byrd, alleged Nazi polar bases, UFO bases, and government cover-ups of polar entrances.",
+        "proponents": ["Various conspiracy authors and online communities"],
+        "evidence_cited": ["Misattributed and fabricated 'Byrd diary' texts", "Selectively cropped polar-region satellite imagery"]
+      }
+    ],
+    "scientific": [
+      {
+        "name": "Halley's nested-shell hypothesis (historical)",
+        "description": "Halley (1692) proposed that Earth consists of nested concentric shells separated by atmospheres, in order to account for apparent multiple magnetic poles.",
+        "proponents": ["Edmond Halley"],
+        "evidence_cited": ["Magnetic-field anomalies known in the late 17th century"]
+      },
+      {
+        "name": "Symmes-Reynolds hollow Earth (historical)",
+        "description": "Early 19th-century proposal of a hollow Earth with very large polar openings, used to argue for a US polar expedition.",
+        "proponents": ["John Cleves Symmes Jr.", "Jeremiah N. Reynolds"],
+        "evidence_cited": ["Speculative arguments about polar circulation, animal migration, and unaccounted-for warm currents"]
+      }
+    ],
+    "skeptical": [
+      {
+        "name": "Modern geophysical refutation",
+        "description": "Earth's mean density (5.515 g/cm³, Cavendish 1798), moment of inertia, and detailed seismic imaging are inconsistent with any hollow-Earth model. Earthquake S- and P-waves directly probe a solid mantle, liquid outer core, and solid inner core.",
+        "proponents": ["Mainstream geophysics", "Seismological community since the early 20th century"],
+        "evidence_cited": ["Cavendish (1798) torsion-balance experiment", "Hutton (1778) Schiehallion experiment", "Bouguer (1749) Chimborazo gravity measurement", "20th–21st-century global seismic tomography"]
+      }
+    ]
   },
+
   "cultural": {
     "folklore": {
-      "traditions": [],
-      "stories": [],
-      "beliefs": "See README.md for cultural context"
+      "traditions": [
+        "Underworld traditions of Greek, Norse, Hindu, and Buddhist mythology",
+        "Western esoteric traditions of Agartha and Shambhala",
+        "Modern internet conspiracy traditions"
+      ],
+      "stories": [
+        "Symmes's polar-expedition campaign",
+        "Cyrus Teed's Koreshanity sermons",
+        "The 'Admiral Byrd's secret diary' legend"
+      ],
+      "beliefs": "Once a serious scientific hypothesis; now a fringe and conspiracy belief, sustained by online communities and recurring popular fiction."
     },
     "popular_culture": {
-      "literature": [],
-      "film_tv": [],
-      "games": [],
-      "other": []
+      "literature": [
+        "Journey to the Center of the Earth — Jules Verne (1864)",
+        "Etidorhpa, or the End of Earth — John Uri Lloyd (1895)",
+        "The Smoky God — Willis George Emerson (1908)",
+        "At the Earth's Core — Edgar Rice Burroughs (1914)",
+        "Beasts, Men and Gods — Ferdynand Ossendowski (1922)",
+        "A Journey to the Earth's Interior — Marshall Gardner (1913)"
+      ],
+      "film_tv": [
+        "Journey to the Center of the Earth (1959, 2008 film adaptations)",
+        "At the Earth's Core (1976)",
+        "Various documentary segments on hollow-Earth conspiracies"
+      ],
+      "games": [
+        "Numerous video games and tabletop RPGs that feature an inhabited 'inner Earth' (e.g. Dungeons & Dragons subterranean settings inspired by hollow-Earth fiction)"
+      ],
+      "music": [],
+      "other": [
+        "Koreshan State Park, Florida — preserves the historic Koreshan Unity settlement founded by Cyrus Teed"
+      ]
     }
   },
+
   "research": {
-    "researchers": [],
-    "organizations": [],
-    "ongoing_studies": "None documented"
+    "researchers": [
+      { "name": "Edmond Halley", "affiliation": "Royal Society (United Kingdom)", "contribution": "1692 paper proposing a hollow Earth to explain magnetic-field anomalies; foundational scientific articulation of the hypothesis", "period": "Late 17th century" },
+      { "name": "John Cleves Symmes Jr.", "affiliation": "United States Army (former)", "contribution": "1818 'Circular No. 1' and the Symmes hollow-Earth lecture campaign", "period": "1818–1829" },
+      { "name": "Jeremiah N. Reynolds", "affiliation": "Independent (United States)", "contribution": "Polar-expedition lobbyist and lecturer in the Symmes hollow-Earth tradition", "period": "1820s–1830s" },
+      { "name": "Cyrus Reed Teed", "affiliation": "Koreshan Unity (founder)", "contribution": "Concave-Earth / Cellular Cosmogony hypothesis and religious movement", "period": "1869–1908" },
+      { "name": "Marshall Gardner", "affiliation": "Independent (United States)", "contribution": "1913 hollow-Earth book and patent of a working model", "period": "1910s" }
+    ],
+    "organizations": [
+      { "name": "Koreshan Unity (historical)", "url": "https://floridastateparks.org/parks-and-trails/koreshan-state-park", "focus": "Religious community founded by Cyrus Teed around the concave-Earth doctrine; preserved as Koreshan State Park, Florida" }
+    ],
+    "ongoing_studies": "No serious scientific research programme; the hollow-Earth hypothesis is treated as historically refuted. Continuing study is concentrated in history of science and the sociology of pseudoscience."
   },
-  "sources": []
+
+  "sources": [
+    { "id": "wikipedia-hollow-earth-2026", "type": "website", "title": "Hollow Earth", "publication": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Hollow_Earth", "accessed": "2026-05-07" },
+    { "id": "halley-1692", "type": "paper", "title": "An Account of the Cause of the Change of the Variation of the Magnetical Needle, with an Hypothesis of the Structure of the Internal Parts of the Earth", "authors": ["Edmond Halley"], "publication": "Philosophical Transactions of the Royal Society", "date": "1692" },
+    { "id": "verne-1864", "type": "book", "title": "Voyage au centre de la Terre (Journey to the Center of the Earth)", "authors": ["Jules Verne"], "publication": "Pierre-Jules Hetzel", "date": "1864" },
+    { "id": "ossendowski-1922", "type": "book", "title": "Beasts, Men and Gods", "authors": ["Ferdynand Ossendowski"], "publication": "E. P. Dutton", "date": "1922" }
+  ]
 }

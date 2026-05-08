@@ -1,356 +1,179 @@
 # Hollow Earth
 
-> *"Seismology has mapped Earth's interior - it's not hollow."*
+> The proposition that the Earth is partly or entirely hollow, with one or more habitable inner surfaces and openings (often at the poles) — historically a serious scientific hypothesis, now firmly debunked but persistent as a conspiracy and esoteric tradition.
 
-[![API Version](https://img.shields.io/badge/api-v1.0.0-blue)]()
-[![Last Updated](https://img.shields.io/badge/updated-2026--01--14-green)]()
-[![Status](https://img.shields.io/badge/status-DEBUNKED-red)]()
+[![API Version](https://img.shields.io/badge/api-v1.1.0-blue)]() [![Last Updated](https://img.shields.io/badge/updated-2026-05-07-green)]() [![Sightings](https://img.shields.io/badge/sightings-0-orange)]() ![Status](https://img.shields.io/badge/status-debunked-blue)
 
 ---
-
 ## Quick Reference
 
 | Property | Value |
-|----------|-------|
+|---|---|
 | **ID** | `hollow-earth` |
-| **Category** | CONSPIRACY_THEORY / URBAN_LEGEND |
-| **Classification** | Pseudoscience / Lost Civilization |
-| **Historical Period** | 17th-19th century (scientific speculation) |
-| **Modern Era** | 20th century-present (conspiracy theory) |
-| **Status** | DEBUNKED - Seismology definitively disproves hollow interior |
+| **Category** | CONSPIRACY_THEORY |
+| **Subcategory** | Pseudoscience / esoteric cosmology |
+| **First recorded** | 1692-01-01 |
+| **Primary range** | A theoretical claim about the entire Earth |
+| **Status** | debunked |
 
 ---
-
 ## Overview
 
-The Hollow Earth theory proposes that Earth is hollow with openings at the North and South poles, potentially containing an inner sun and advanced civilizations such as Agartha or Shambhala.
-
-**Historical Context**: The idea appeared in 17th-19th century scientific speculation by figures like Edmond Halley, Leonhard Euler, and John Cleves Symmes Jr., before modern understanding of Earth's interior.
-
-**Claims**:
-- Earth's interior is hollow, not solid
-- Large openings at North and South poles
-- Inner sun or light source
-- Advanced underground civilizations (Agartha, Shambhala)
-
-**Reality**: Modern seismology has definitively disproven a hollow interior, revealing Earth's layered structure: crust, mantle, outer core, and inner core. Earth's measured mass and density require a dense interior. The poles have been extensively explored with no openings found.
+The Hollow Earth is the proposition that the planet is wholly or partly hollow, often with habitable inner surfaces, an inner sun, and entrances at one or both poles. The idea began as serious natural philosophy in the late 17th century: Edmond Halley argued in 1692 that the Earth might consist of a hollow shell about 800 km thick enclosing two inner concentric shells and an innermost core, primarily as a way to explain anomalies in the Earth's magnetic field. In the 19th century, the American officer John Cleves Symmes Jr. proposed (1818) a hollow Earth with very large polar openings, lobbied Congress for a polar expedition, and inspired the writer J. N. Reynolds. Cyrus Reed Teed proposed a 'concave Earth' or 'Cellular Cosmogony' in 1869, founding the Koreshan Unity religious movement; Marshall Gardner published A Journey to the Earth's Interior in 1913 and patented a working hollow-Earth model. The hypothesis was definitively disproved by gravitational measurements (Bouguer's 1738 Chimborazo work, Hutton's 1774 Schiehallion experiment, Cavendish's 1798 torsion-balance experiment establishing Earth's mean density at 5.515 g/cm³) and by 20th-century seismology, which directly imaged a solid mantle, liquid outer core, and solid inner core. Despite this, hollow-Earth ideas survive as esoteric and conspiracy traditions, often combined with myths of subterranean civilisations such as Agartha or Shambhala and modern legends about Admiral Richard E. Byrd's polar expeditions. Jules Verne's 1864 novel Journey to the Center of the Earth remains the canonical fictional treatment.
 
 ---
+## Names & Aliases
 
-## Etymology & Names
+| Name | Origin | Meaning |
+|---|---|---|
+| Inner Earth | Modern English usage |  |
+| Subterranean world | General fictional / mythic usage |  |
+| Concave Earth / Cellular Cosmogony | Cyrus Teed's Koreshan tradition |  |
+| Agartha | Sanskrit-derived | Legendary subterranean kingdom |
+| Shambhala | Sanskrit | Buddhist mythical kingdom often associated in modern Western occultism with an inner Earth |
 
-### Primary Name
-- **Hollow Earth** — Descriptive term for theory that Earth's interior is hollow rather than solid
+## Etymology
 
-### Related Names & Concepts
-
-| Name | Meaning | Context |
-|------|---------|---------|
-| Inner Earth | Earth's alleged hollow interior | Alternative term |
-| Subterranean World | Underground civilization theory | Variant concept |
-| Agartha | Legendary underground kingdom | Alleged hollow Earth civilization |
-| Shambhala | Mythical kingdom | Sometimes placed in hollow Earth |
-| Symmes' Hole | Polar openings theory | Named after John Cleves Symmes Jr. |
-
----
-
-## Classification
-
-### Taxonomy
-```
-Category: CONSPIRACY_THEORY
-├── Type: Pseudoscience
-├── Subtype: Geological
-└── Variant: Urban Legend / Lost Civilization
-```
-
-### Related Phenomena
-
-| Phenomenon | Relationship | Description |
-|------------|--------------|-------------|
-| Agartha | Connected | Legendary underground kingdom |
-| Shambhala | Related | Mythical kingdom, sometimes placed underground |
-| Admiral Byrd Conspiracy | Misquoted | Antarctic expeditions misquoted to support theory |
+- **Origin**: English compound. The phrase 'hollow earth' came into use in early-modern natural philosophy and scientific cosmology in the 17th–18th centuries.
+- **Meaning**: Earth, conceived as a hollow rather than solid body.
+- **First use**: Halley's 1692 paper to the Royal Society on the Earth's magnetic field is generally treated as the founding statement of the modern hollow-Earth hypothesis.
 
 ---
+## Related Phenomena
 
-## Core Claims (Debunked)
-
-### Main Assertions
-
-| Claim | Description | Evidence Claimed | Reality |
-|-------|-------------|------------------|---------|
-| **Earth is hollow** | Interior is hollow space | None credible | Seismology proves layered structure |
-| **Polar openings** | Large holes at poles leading inside | Satellite anomalies, flight avoidance | Poles extensively explored; no openings |
-| **Inner sun** | Small sun illuminating interior | Speculation for habitability | No physical mechanism; contradicts physics |
-| **Underground civilizations** | Agartha, Shambhala, advanced beings | Legends, myths, alleged accounts | No evidence; myths are folklore |
-
-### Alleged Locations
-
-| Location | Description | Origin | Reality |
-|----------|-------------|--------|---------|
-| **Agartha** | Legendary underground kingdom | 19th century occult literature | Fictional; no evidence |
-| **Shambhala** | Mythical kingdom from Buddhism | Buddhist mythology | Spiritual/mythological, not literal |
-| **Polar openings** | Entrances at North/South poles | Symmes' Hole theory (1818) | Poles thoroughly explored; no openings |
+- [Agartha](../agartha/) — _subset_: Legendary subterranean kingdom often situated within a hollow Earth
+- [Shambhala](../shambhala/) — _related_: Buddhist mythic kingdom adopted into Western hollow-Earth and Theosophical traditions
+- [Flat Earth](../flat-earth/) — _similar_: Modern pseudoscientific cosmology rejecting standard geophysics
+- [Admiral Byrd 'secret diary' legend](../admiral-byrd-secret-diary/) — _related_: Modern legend that Byrd's 1947 Antarctic expedition encountered a hollow-Earth opening
+- [Nazi UFO myth](../nazi-ufos/) — _related_: Conspiracy tradition that connects hollow-Earth ideas to alleged Nazi polar bases
 
 ---
+## Physical Description
 
-## Historical Development
+- **Morphology**: There is no single canonical morphology: serious scientific proposals (Halley, Symmes) imagined nested shells and large polar holes; Teed's Koreshanity proposed an inverted, concave Earth in which we live on the inside surface of a shell; modern conspiracy versions add inner suns, hidden civilisations, and secret entrances.
 
-### Early Scientific Speculation (17th-19th Century)
+### Features
 
-Before modern understanding of Earth's interior, some scientists speculated about a hollow Earth:
+| Feature | Description | Frequency |
+|---|---|---|
+| Hollow planetary interior | An interior cavity inside the Earth, in some versions occupying most of the planet's volume | always |
+| Polar openings | Large 'Symmes Holes' at one or both poles, claimed in 19th-century formulations to be roughly 2,300 km across | common |
+| Inner sun | A small interior sun, claimed to illuminate the inner surface in many post-Gardner formulations | common |
+| Habitable inner surface | A populated inner surface inhabited by humans, prehistoric animals, or civilisations such as Agartha | common |
+| Concentric inner shells (Halley) | In Halley's 1692 model, two further concentric shells and a small inner core lie inside the outer shell | occasional |
 
-| Year | Person | Contribution | Status |
-|------|--------|--------------|--------|
-| **1692** | Edmond Halley | Proposed nested hollow spheres to explain magnetic field | Disproven; Halley's comet work remains valid |
-| **1741** | Leonhard Euler | Suggested hollow Earth with interior sun | Mathematical speculation; disproven |
-| **1818** | John Cleves Symmes Jr. | Proposed "Symmes' Hole" - polar openings | Never proven; expeditions never materialized |
+## Behavior
 
-### Symmes' Hole (1818)
-
-**Proponent**: John Cleves Symmes Jr. (American army officer)
-
-**Proposal**:
-- Earth is hollow with large openings at poles
-- Accessible via ship
-- Petitioned U.S. Congress for polar expedition funding
-
-**Reception**: Generated public interest but scientific rejection
-
-**Outcome**: Expedition never occurred; theory disproven by polar exploration
-
-**Legacy**: Influenced 19th century hollow Earth fiction and later conspiracy theories
-
-### Fiction Influence
-
-| Work | Author | Year | Impact |
-|------|--------|------|--------|
-| **Journey to the Center of the Earth** | Jules Verne | 1864 | Popularized underground world in fiction |
-| **The Smoky God** | Willis George Emerson | 1908 | Novel claiming to be true hollow Earth account |
-| **Pulp fiction** | Various | Early 1900s | Numerous hollow Earth adventure stories |
-
-**Note**: These are fiction, but blurred lines between entertainment and belief for some readers.
+- **Activity**: variable
+- **Disposition**: neutral
+- **Social structure**: unknown
+- **Diet**: Not applicable.
 
 ---
+## Distribution
 
-## Nazi Connection (Unverified)
+A theoretical claim about the entire Earth; major proponents and movements have been concentrated in the United Kingdom (Halley), the United States (Symmes, Teed, Gardner, modern conspiracists), and Russia / continental Europe (Ossendowski, Theosophy).
 
-### Claims
-
-Conspiracy theories claim Nazis sought hollow Earth or entrances to inner world for Aryan origins.
-
-**Alleged Evidence**:
-- Nazi interest in occult and mythology (partially true)
-- Antarctic expeditions (true, but for different reasons)
-- Agartha as Aryan homeland theory
-
-### Reality
-
-**Historical Facts**:
-- Nazis conducted Antarctic expedition (1938-39) for **territorial claims and whaling surveys**, not hollow Earth exploration
-- Nazi occult interests were real but exaggerated post-war
-
-**Status**: Largely unverified and likely exaggerated/fabricated post-war mythology
 
 ---
+## Historical Timeline
 
-## Admiral Byrd Misquotations
+| Date | Event | Significance |
+|---|---|---|
+| 1692-01-01 | Edmond Halley proposes that the Earth consists of a hollow outer shell about 800 km thick, two inner concentric shells, and an innermost core, to explain magnetic-field anomalies | Foundational scientific articulation of the hollow-Earth hypothesis |
+| 1738-01-01 | Pierre Bouguer's Chimborazo expedition measures gravitational deflection by a mountain mass | First direct gravimetric data inconsistent with a low-density hollow Earth |
+| 1774-01-01 | Charles Hutton's Schiehallion experiment measures Earth's mean density | Confirms a mean density (~4.5 g/cm³) inconsistent with a hollow planet |
+| 1798-01-01 | Henry Cavendish's torsion-balance experiment establishes Earth's mean density at 5.515 g/cm³ | Decisively rules out a hollow Earth on physical grounds |
+| 1818-04-10 | John Cleves Symmes Jr. issues 'Circular No. 1', publicly proposing a hollow Earth with large polar openings | Founds the 19th-century American hollow-Earth movement |
+| 1864-01-01 | Jules Verne publishes Voyage au centre de la Terre (Journey to the Center of the Earth) | Most influential fictional treatment of a hollow / inner Earth |
+| 1869-01-01 | Cyrus Reed Teed publicises a 'concave Earth' / Cellular Cosmogony, founding the Koreshan Unity movement | Religious / esoteric variant of the hollow-Earth hypothesis |
+| 1913-01-01 | Marshall Gardner publishes A Journey to the Earth's Interior and patents a working hollow-Earth model | Carries the hollow-Earth hypothesis into the early 20th century |
+| 1922-01-01 | Ferdynand Ossendowski publishes Beasts, Men and Gods, popularising the legend of an underground kingdom Agharti / Agartha | Introduces Agartha to Western esoteric culture |
 
-### Richard E. Byrd (American Polar Explorer)
+## Evidence
 
-**Real Expeditions**:
-- Antarctic expeditions: 1928-1930, 1933-1935, 1939-1941, 1946-1947 (Operation Highjump), 1955-1956
-- **Purpose**: Polar exploration, mapping, scientific research
-- **Reality**: Legitimate scientific expeditions
+### Documentary
 
-### Conspiracy Claims (False)
-
-| Claim | Alleged Evidence | Reality |
-|-------|------------------|---------|
-| Discovered hollow Earth entrance | Misquoted diary entries | No such statements in verified records |
-| Found land "beyond the pole" with forests | Fabricated quotes | Quotes are fabrications or misinterpretations |
-| Operation Highjump fought underground Nazis | Conspiracy theory | Actually mapping and research expedition |
-
-**Status**: Byrd's actual expeditions are well-documented. Hollow Earth connections are **fabrications and misquotations**.
-
----
-
-## Scientific Debunking
-
-### 1. Seismology (Definitive Proof)
-
-**Method**: Seismic waves from earthquakes travel at different speeds through different materials. By measuring arrival times worldwide, scientists map Earth's interior.
-
-**Earth's Actual Structure**:
-
-| Layer | Type | Thickness/Size |
-|-------|------|----------------|
-| **Crust** | Solid rock | 5-70 km thick |
-| **Mantle** | Solid rock (hot but solid) | ~2,900 km thick |
-| **Outer Core** | Liquid iron-nickel | ~2,300 km thick |
-| **Inner Core** | Solid iron-nickel | ~1,200 km radius |
-
-**Proof**: Seismic wave patterns definitively show solid/liquid layers, **not hollow interior**.
-
-**Conclusion**: Earth is **NOT hollow**; internal structure is well-mapped and understood.
-
-### 2. Density & Gravity
-
-**Measurements**:
-- Earth's mass: 5.972 × 10²⁴ kg (measured via gravitational effects)
-- Earth's volume: 1.08321 × 10¹² km³
-- **Average density: 5.52 g/cm³**
-
-**Surface rocks**: ~2.7-3.3 g/cm³
-
-**Implication**: Earth's average density is **much higher** than surface rocks, proving **dense interior** (iron-nickel core).
-
-**Hollow Earth Problem**: Hollow Earth would have much **lower** average density, contradicting measured mass.
-
-**Conclusion**: Earth's mass **requires** dense interior, not hollow space.
-
-### 3. Magnetic Field
-
-**Earth's magnetic field**: Generated by liquid iron outer core (dynamo effect)
-
-**Hollow Earth problem**: No mechanism to generate magnetic field
-
-**Observation**: Earth has strong, well-measured magnetic field
-
-**Conclusion**: Magnetic field **proves** liquid iron core, not hollow interior.
-
-### 4. Polar Exploration
-
-| Pole | Exploration | Finding |
-|------|-------------|---------|
-| **North Pole** | Extensively explored by surface, air, submarine | Arctic Ocean confirmed; no opening |
-| **South Pole** | Extensively explored; research stations present | Antarctic continent mapped; no opening |
-| **Satellite imaging** | Complete coverage of both poles | No polar openings visible |
-| **Aviation** | Commercial and military flights cross poles regularly | No openings encountered |
-
-**Conclusion**: **No openings exist** at either pole; both thoroughly explored and mapped.
+| Name | Date | Description | Status |
+|---|---|---|---|
+| Halley (1692) hollow-Earth hypothesis | 1692 | Edmond Halley's paper to the Royal Society proposing a hollow Earth of nested shells to account for magnetic-field anomalies. | debunked |
+| Symmes Circular No. 1 (1818) | 1818-04-10 | John Cleves Symmes Jr.'s 1818 broadside proposing a hollow Earth with very large polar openings and lobbying for a polar expedition. | debunked |
 
 ---
+## Theories & Explanations
 
-## Why People Believe
+### Paranormal / Cryptozoological
 
-### Psychological Appeal
+**Esoteric / Theosophical hollow Earth** _(Ferdynand Ossendowski (popularised Agartha in 1922), Various Theosophical and modern New Age writers)_
 
-| Factor | Description | Relevance |
-|--------|-------------|-----------|
-| **Lost civilization romanticism** | Desire for hidden advanced civilizations | Agartha/Shambhala legends provide mystery |
-| **Unexplored frontiers** | Desire for remaining mysteries | Hollow Earth as "final frontier" despite mapped world |
-| **Distrust of science** | Rejection of scientific consensus | Belief that science hides truth |
-| **Spiritual/mythological** | Connection to Buddhist/Hindu mythology | Interpreting spiritual myths as literal geography |
+An esoteric tradition in which the inner Earth is inhabited by hidden masters and lost civilisations (notably Agartha and Shambhala), accessible through secret tunnels and polar entrances.
 
----
+**Modern hollow-Earth conspiracies** _(Various conspiracy authors and online communities)_
 
-## Cultural Impact
+20th- and 21st-century conspiracy traditions combining hollow-Earth ideas with claims about Admiral Byrd, alleged Nazi polar bases, UFO bases, and government cover-ups of polar entrances.
 
-### Fiction
+### Scientific
 
-- **Jules Verne** - *Journey to the Center of the Earth* (1864)
-- **Edgar Rice Burroughs** - Pellucidar series (1914-1963)
-- Numerous pulp fiction and adventure novels
-- Video games and movies featuring hollow Earth
+**Halley's nested-shell hypothesis (historical)** _(Edmond Halley)_
 
-### Mythology & Occult
+Halley (1692) proposed that Earth consists of nested concentric shells separated by atmospheres, in order to account for apparent multiple magnetic poles.
 
-- Agartha in occult literature
-- Shambhala in Tibetan Buddhism
-- Various underworld myths worldwide
+**Symmes-Reynolds hollow Earth (historical)** _(John Cleves Symmes Jr., Jeremiah N. Reynolds)_
 
-### Conspiracy Theories
+Early 19th-century proposal of a hollow Earth with very large polar openings, used to argue for a US polar expedition.
 
-- Nazi hollow Earth expeditions (unverified)
-- Admiral Byrd discoveries (misquotations)
-- Government cover-up of polar openings (false)
-- UFOs originating from hollow Earth (unfounded)
+### Skeptical
 
----
+**Modern geophysical refutation** _(Mainstream geophysics, Seismological community since the early 20th century)_
 
-## The Bottom Line
+Earth's mean density (5.515 g/cm³, Cavendish 1798), moment of inertia, and detailed seismic imaging are inconsistent with any hollow-Earth model. Earthquake S- and P-waves directly probe a solid mantle, liquid outer core, and solid inner core.
 
-### What Science Proves
 
-✅ **Earth has layered structure**: Crust, mantle, outer core (liquid), inner core (solid)  
-✅ **Seismology maps interior**: Seismic waves show solid/liquid layers, not hollow space  
-✅ **Density requires dense core**: Earth's mass proves iron-nickel core  
-✅ **Magnetic field requires liquid core**: Dynamo effect generates magnetism  
-✅ **Poles thoroughly explored**: No openings at either pole  
-✅ **Satellite imaging confirms**: Complete coverage shows no polar holes  
+## Popular Culture
 
-### What Is NOT Real
+**Literature**: Journey to the Center of the Earth — Jules Verne (1864); Etidorhpa, or the End of Earth — John Uri Lloyd (1895); The Smoky God — Willis George Emerson (1908); At the Earth's Core — Edgar Rice Burroughs (1914); Beasts, Men and Gods — Ferdynand Ossendowski (1922); A Journey to the Earth's Interior — Marshall Gardner (1913)
 
-❌ Hollow interior  
-❌ Polar openings  
-❌ Inner sun  
-❌ Underground civilizations (Agartha, Shambhala as literal places)  
-❌ Admiral Byrd hollow Earth discovery  
-❌ Nazi hollow Earth expeditions  
+**Film / TV**: Journey to the Center of the Earth (1959, 2008 film adaptations); At the Earth's Core (1976); Various documentary segments on hollow-Earth conspiracies
 
-### Evidence Status
+**Games**: Numerous video games and tabletop RPGs that feature an inhabited 'inner Earth' (e.g. Dungeons & Dragons subterranean settings inspired by hollow-Earth fiction)
 
-- **Scientific evidence against hollow Earth**: Overwhelming and definitive
-- **Evidence for hollow Earth**: None credible
-- **Seismological proof**: Earth's interior is solid/liquid layers, not hollow
+**Other**: Koreshan State Park, Florida — preserves the historic Koreshan Unity settlement founded by Cyrus Teed
 
 ---
+## Research
 
-## Distinction: Myth vs. Reality
+### Researchers
 
-**Mythological Shambhala/Agartha**: Spiritual and symbolic concepts in Buddhism and occult literature - **not literal underground locations**
+| Name | Affiliation | Contribution | Period |
+|---|---|---|---|
+| Edmond Halley | Royal Society (United Kingdom) | 1692 paper proposing a hollow Earth to explain magnetic-field anomalies; foundational scientific articulation of the hypothesis | Late 17th century |
+| John Cleves Symmes Jr. | United States Army (former) | 1818 'Circular No. 1' and the Symmes hollow-Earth lecture campaign | 1818–1829 |
+| Jeremiah N. Reynolds | Independent (United States) | Polar-expedition lobbyist and lecturer in the Symmes hollow-Earth tradition | 1820s–1830s |
+| Cyrus Reed Teed | Koreshan Unity (founder) | Concave-Earth / Cellular Cosmogony hypothesis and religious movement | 1869–1908 |
+| Marshall Gardner | Independent (United States) | 1913 hollow-Earth book and patent of a working model | 1910s |
 
-**Hollow Earth conspiracy**: Misinterprets myths as literal geography and rejects overwhelming scientific evidence
+### Organizations
 
-**Historical speculation**: 17th-19th century scientists speculated before modern seismology - **understandable for their time, definitively disproven since**
+- [Koreshan Unity (historical)](https://floridastateparks.org/parks-and-trails/koreshan-state-park) — Religious community founded by Cyrus Teed around the concave-Earth doctrine; preserved as Koreshan State Park, Florida
 
----
-
-## API Reference
-
-Machine-readable data is available in [`api.json`](api.json).
-
-### Data Access
-
-```javascript
-// Using WyrdnessAPI
-const wyrd = new WyrdnessAPI();
-const hollowEarth = await wyrd.getPhenomenon('hollow-earth');
-```
-
-### Direct Access
-
-```
-Raw JSON: https://raw.githubusercontent.com/wyrdness/hollow-earth/main/api.json
-```
+No serious scientific research programme; the hollow-Earth hypothesis is treated as historically refuted. Continuing study is concentrated in history of science and the sociology of pseudoscience.
 
 ---
+## Sources
 
-## Sources & References
+See [SOURCES.md](SOURCES.md) for the complete bibliography.
 
-See [SOURCES.md](SOURCES.md) for complete bibliography.
 
-### Key Sources
+## How to Report a Sighting
 
-- Standish, D. (2006). *Hollow Earth: The Long and Curious History*. Da Capo Press.
-- Kafton-Minkel, W. (1989). *Subterranean Worlds*. Loompanics Unlimited.
-- USGS and seismological research proving Earth's internal structure.
+1. **GitHub Issue**: [Submit Sighting Report](../../issues/new?template=sighting_report.yml)
+2. Provide date, location, witnesses, description, conditions, and any evidence.
 
 ---
-
 ## License
 
-- **Content**: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
-- **Data**: [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)
+Content: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)  
+Data: [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)  
 
 ---
-
-<div align="center">
-
-*Part of the [Wyrdness](https://github.com/wyrdness) Paranormal Archive*
-
-[Suggest Correction](../../issues/new?template=correction.yml) • [Full API](api.json)
-
-</div>
+_Auto-generated from `api.json`. Do not edit by hand — edit `api.json` and run `make repo-docs`._
